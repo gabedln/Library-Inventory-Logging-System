@@ -1,0 +1,1 @@
+# Add required files for header images.
